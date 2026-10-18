@@ -8,4 +8,3 @@ with GitHub Actions.
 - Test automatic version calculation.
 - Test Git tags.
 - Test GitHub Releases.
-- Test1
